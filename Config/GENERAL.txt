@@ -104,3 +104,6 @@ CONFIG_PACKAGE_usbutils=y
 #增加其他组件
 CONFIG_PACKAGE_ncdu=y
 CONFIG_PACKAGE_curl=y
+CONFIG_PACKAGE_miniupnpc=y
+CONFIG_PACKAGE_jq=y
+CONFIG_PACKAGE_unzip=y
