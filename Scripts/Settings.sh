@@ -66,5 +66,4 @@ if [[ "${WRT_TARGET^^}" == *"QUALCOMMAX"* ]]; then
 		echo "qualcommax set up nowifi successfully!"
 	fi
 fi
-rm -rf feeds/luci/applications/luci-app-attendedsysupgrade
 git clone --depth=1 https://github.com/gdy666/luci-app-lucky package/luci-app-lucky
