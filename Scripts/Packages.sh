@@ -73,8 +73,8 @@ UPDATE_PACKAGE() {
 #UPDATE_PACKAGE "viking" "VIKINGYFY/packages" "main" "" "luci-app-timewol luci-app-wolplus"
 #UPDATE_PACKAGE "vnt" "lmq8267/luci-app-vnt" "main"
 
-UPDATE_PACKAGE "luci-app-adguardhome" "kenzok8/openwrt-packages" "main"
-UPDATE_PACKAGE "adguardhome" "kenzok8/openwrt-packages" "main"
+UPDATE_PACKAGE "luci-app-adguardhome" "kenzok8/openwrt-packages" "master"
+UPDATE_PACKAGE "adguardhome" "kenzok8/openwrt-packages" "master"
 
 #更新软件包版本
 UPDATE_VERSION() {
